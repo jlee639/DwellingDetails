@@ -36,10 +36,13 @@ To provide a generic framework to help catalog items/ processes, and provides to
 - Expand Recipes that have items that have recipes within
 
 0.7
+- Create Generic access controls
 
 0.8
+- Pull in Global Items
 
 0.9
+- Pull in Global Recipes
 
 1.0
 - All Backend functionality complete
